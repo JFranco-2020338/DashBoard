@@ -1,16 +1,19 @@
-# DashBoard
+# DashBoard Phyton 
+Este proyecto consiste en tener una vista de la data en limpio, presentandola en graficos y numeros estadisticamente correctos haciendo asi un analicis de datos de juguetes de amazon.
 
-Lectura y muestra de datos Phyton
+1.En la carpeta Excel cvs, se encuentra el cvs de la data trabajada y limpia este es un archivo de excel.
 
-1.En el archivo csv estan los 10000 datos de amazon que se trabajaron con anterioridad procesandolos y limpiandolos, estos son pertenecientes de
-excel.
+2.Nootebook Phyton se encuenta en nootbook en donde se realizo el codigo para el proceso de la data, este se lanza por medio de Jupyter Nootbook.
+Juputer Nootbook es una de los varios metodos de trabajo en el launcher Anaconda Navigator Phyton. 
 
-2.Exploraccion de datos es el nootbook en jutyper nootbook donde se limpio toda la data 
+3.Images se encuentra el stylecloud de las descripciones de los juguetes amazon 
 
-3.El dashboard fue trabajado en shiny de R
+4.Rstudio contiene el archivo .r el cual es el file de codigo en el que esta elaborado el dashboard 
 
-4.La instalacion de shiny en R esta en el siguiente link https://www.youtube.com/watch?v=NZxSA80lF1I&t=189s
+Rstudio es un desarrollo integrado para el desarrollo de codigo R, este esta enfocado en graficas y estadisticas.
+Abrimos el archivo .r en Rstudio y tenemos que cargar la data que en este caso se encuenta en la carpeta Excel cvs, con estos dos pasos se ejecuta la dashboard 
 
-5.DashBoard.R es el archivo que tenemos que abrir en Restudio
+Dandonos como resultado esto 
 
-6.Sigiendo estos pasos sabemos que es cada cosa y como ejecutar la Dashboard
+![image](https://user-images.githubusercontent.com/101079444/190950414-a9c1e589-8059-49db-822b-3bebee64d9f8.png)
+
