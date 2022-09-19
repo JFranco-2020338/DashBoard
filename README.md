@@ -1,5 +1,5 @@
 # DashBoard Phyton 
-Este proyecto consiste en tener una vista de la data en limpio, presentandola en graficos y numeros estadisticamente correctos haciendo asi un analicis de datos de juguetes de amazon.
+Este proyecto consiste en tener una vista de la data en limpio, presentandola en graficos y numeros estadisticamente correctos haciendo asi un analisis de datos de juguetes de amazon.
 
 1.En la carpeta Excel cvs, se encuentra el cvs de la data trabajada y limpia este es un archivo de excel.
 
